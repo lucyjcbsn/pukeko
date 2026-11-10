@@ -1,11 +1,11 @@
 # pukeko
-terrible, horrible, no-good, very bad compiled programming language
+terrible, horrible, no-good, very bad compiled programming language  
 
-Every standard pukeko keyword and type (excluding some typesets) is the size of 2 characters.
-Pukeko has a multilayered type system, where certain types require subtypes.
-Typesets maintain simplicity and readability, reducing need for having more types in the global environment.
-Typesets can be predefined (for example a nu ~long would be a 32 bit integer), or if a possibility, have their size defined (nu ~32 would be a 32 bit int)
-Typesets may also be defined automatically on compile time (nu A = 255; would be an 8 bit unsigned integer, whereas nu A = 256; would be 16 bits)
+Every standard pukeko keyword and type (excluding some typesets) is the size of 2 characters.  
+Pukeko has a multilayered type system, where certain types require subtypes.  
+Typesets maintain simplicity and readability, reducing need for having more types in the global environment.  
+Typesets can be predefined (for example a nu ~long would be a 32 bit integer), or if a possibility, have their size defined (nu ~32 would be a 32 bit int)  
+Typesets may also be defined automatically on compile time (nu A = 255; would be an 8 bit unsigned integer, whereas nu A = 256; would be 16 bits)  
 
 KEYWORDS
     fn . define a function
