@@ -1,4 +1,4 @@
-# pukeko
+*pukeko*
 terrible, horrible, no-good, very bad compiled programming language  
 
 Every standard pukeko keyword and type (excluding some typesets) is the size of 2 characters.
