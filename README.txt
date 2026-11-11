@@ -17,7 +17,7 @@ KEYWORDS
     /c . conditional or (ifstatement)
     sw . switch statement
     wl . while loop
-    fr . for loop
+    fl . for loop
     st . structure // by default stores data in a list, when defined with the typeset "ns", behaves like a namespace
     lk . import another pukeko file
 TYPES
