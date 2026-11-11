@@ -19,7 +19,7 @@ KEYWORDS
     wl . while loop
     fl . for loop
     st . structure // by default stores data in a list, when defined with the typeset "ns", behaves like a namespace
-    lk . import another pukeko file
+    pk . import another pukeko file
 TYPES
     nu . arbitrary number
     ch . arbitrary character
