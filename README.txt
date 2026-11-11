@@ -32,7 +32,6 @@ OPERATORS
     "/" . divide
     "=" . equals
     "==" . if equals
-    "()" . result of an operation, or arguments for a function
 
 Examples
 
