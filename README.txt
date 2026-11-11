@@ -13,6 +13,8 @@ KEYWORDS
     cs . define as constant
     gl . define as global // by default all variables are local
     if . if statement
+    &c . conditional and (ifstatement)
+    /c . conditional or (ifstatement)
     sw . switch statement
     wl . while loop
     fr . for loop
