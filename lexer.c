@@ -22,14 +22,22 @@ enum tokens {
 	IF_EQUALS,
 	PAR_LEFT,
 	PAR_RIGHT,
+	CB_LEFT,
+	CB_RIGHT,
+	QUOTATION
 };
 
 char *TokenStack;
 
-char Tokenize(char *str) {
+// Tokenizer and Lexer
+char Tokenize(char *src) {
 	char *TokenizedResult;
-
 	
-
 	return TokenizedResult;
 }; 
+
+char *Lexer(char *tkn) {
+	char *LexerResult;
+	
+	return LexerResult;
+};
